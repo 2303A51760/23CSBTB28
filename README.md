@@ -5,5 +5,5 @@
 <a href="https://github.com/2303A51760/23CSBTB28/blob/main/Lab-04.ipynb">LAB4</a></br>
 <a href="https://github.com/2303A51760/23CSBTB28/blob/main/Lab_5..ipynb">LAB5</a></br>
 <a href="https://github.com/2303A51760/23CSBTB28/blob/main/Lab06-AIML.ipynb">LAB6</a></br>
-<a href="https://github.com/2303A51760/23CSBTB28/blob/main/lab_7.ipynb">LAB7</a></br>
+<a href="https://github.com/2303A51760/23CSBTB28/blob/main/Lab07_SVM.ipynb">LAB7</a></br>
 <a href="https://github.com/2303A51760/23CSBTB28/blob/main/lab_exam.ipynb">Lab_exam<a/></br>
